@@ -1,0 +1,10 @@
+<template lang="pug">
+#Top
+  img(:src="'./images/logo.png'")
+</template>
+
+<script>
+export default {
+  name: 'Top'
+}
+</script>
